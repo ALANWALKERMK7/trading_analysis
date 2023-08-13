@@ -1,0 +1,10 @@
+This repository contains code for analyzing trading data. It includes functions for loading data, calculating technical indicators, and backtesting trading strategies.
+
+Getting Started
+To get started, clone the repository to your local machine. Then, install the following libraries
+
+import pandas as pd
+import numpy as np
+from datetime import datetime
+import matplotlib.pyplot as plt
+plt.style.use('fivethirtyeight')
